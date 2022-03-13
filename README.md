@@ -1,7 +1,7 @@
 ### Olá seja bem vindo(a) 👋
 
 - 🔭 Atualmente não trabalho
-- 🌱 Estudante de java e todo o seu ecossitema
+- 🌱 Estudante de java e todo o seu ecosistema
 - 😄 pronomes: ele/dele
 
 <div align="center">
