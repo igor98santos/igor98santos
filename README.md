@@ -3,14 +3,18 @@
 - 🔭 Atualmente não trabalho
 - 🌱 Estudante de java e todo o seu ecosistema
 - 😄 pronomes: ele/dele
-
+- 💜Tenho conhecimento em HTML5, CSS, JavaScript, C#, .Net, Java, React, bootstrap, SQLserver, Mysql.
+- 💜Tenho conhecimento também em computação e aquitetura em nuvem. 
+- 🎯 Objetivo: Pretendo me tornar um Desenvolvedor Full Stack referência. Preferencialmente em Java, SpringBoot.
+- 🎒Graduando em Ciências da computação pela cruzeiro do sul.
+  
 <div align="center">
   <a href="https://github.com/igor98santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor98santos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor98santos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block; "><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
