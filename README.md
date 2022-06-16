@@ -4,7 +4,7 @@
 - 🌱 Estudante de java e todo o seu ecosistema
 - 😄 pronomes: ele/dele
 - 💜Tenho conhecimento em HTML5, CSS, JavaScript, C#, .Net, Java, React, bootstrap, SQLserver, Mysql.
-- 💜Tenho conhecimento também em computação e aquitetura em nuvem. 
+- 💜Tenho conhecimento também em computação e arquitetura em nuvem. 
 - 🎯 Objetivo: Pretendo me tornar um Desenvolvedor Full Stack referência. Preferencialmente em Java, SpringBoot.
 - 🎒Graduando em Ciências da computação pela cruzeiro do sul.
   
